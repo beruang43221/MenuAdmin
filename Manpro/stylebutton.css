@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    margin: 30px 20px 30px 370px;
+    width:300px;
+    padding: 25px;
+}
+
+.container{
+    font-size: 12px;
+
+}
+.container a{
+    text-decoration: none;
+    margin-left: 40px;
+    padding: 20px;
+}
+
+.container #foods{
+    color: white;
+    background: grey;
+    border-radius: 10px;
+    margin-left: 30%;
+}
+
+.container #drinks{
+    color: white;
+    background: grey;
+    border-radius: 10px;
+    margin-left: 35%;
+}
+
+.container #foods:hover{
+    color: black;
+    background: orange;
+    box-shadow: 0 0 3px #e5edf1;
+    box-shadow: 0 0 6px #e5edf1;
+    box-shadow: 0 0 12px #e5edf1;
+    box-shadow: 0 0 24px #e5edf1;
+    box-shadow: 0 0 48px #e5edf1;
+    box-shadow: 0 0 96px #e5edf1;
+    box-shadow: 0 0 192px #e5edf1;
+    border-radius: 10px;
+    margin-left: 30%;
+}
+
+.container #drinks:hover{
+    color: black;
+    background: orange;
+    box-shadow: 0 0 3px #e5edf1;
+    box-shadow: 0 0 6px #e5edf1;
+    box-shadow: 0 0 12px #e5edf1;
+    box-shadow: 0 0 24px #e5edf1;
+    box-shadow: 0 0 48px #e5edf1;
+    box-shadow: 0 0 96px #e5edf1;
+    box-shadow: 0 0 192px #e5edf1;
+    border-radius: 10px;
+    margin-left: 35%;
+}
