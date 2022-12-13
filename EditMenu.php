@@ -23,13 +23,13 @@
                     <img src="img/logoResto.png" class="rounded mx-auto d-block h-50" alt="...">
                 </div>
                 <div class="row mx-2 mx-4 mb-3">
-                    <button type="button" class="btn btn-secondary">Edit Menu</button>
+                    <a href="EditMenu.php" type="button" class="btn btn-secondary">Edit Menu</a>
                 </div>
                 <div class="row mx-2 mx-4 mb-3">
-                    <button type="button" class="btn btn-secondary">Add Menu</button>
+                    <a href="AddMenu.php" type="button" class="btn btn-secondary">Add Menu</a>
                 </div>
                 <div class="row mx-2 mx-4 mb-3">
-                    <button type="button" class="btn btn-secondary">Book Keeping</button>
+                    <a href="BookKeeping.php" type="button" class="btn btn-secondary">Book Keeping</a>
                 </div>
             </div>
             <div class="col-9 bg-white">
@@ -57,8 +57,8 @@
                       <td><img src="img/AyamGoreng.jpg" class="img-fluid w-25" alt="..."></td>
                       <td>Ayam Goreng</td>
                       <td>Rp.20.000</td>
-                      <td><button type="button" class="btn btn-info"><i class="bi bi-arrow-repeat"></i></button></td>
-                      <td><button type="button" class="btn btn-info"><i class="bi bi-bucket"></i></button></td>
+                      <td><a href="UpdateMenu.php"><img src="img/update.png" style="width:50px ;"></a></td>
+                      <td><a href="#"><img src="img/hapuss.png" style="width:50px ;"></a></td>
 
                     </tr>
                     

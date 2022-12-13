@@ -22,13 +22,13 @@
                     <img src="img/logoResto.png" class="rounded mx-auto d-block h-50" alt="...">
                 </div>
                 <div class="row mx-2 mx-4 mb-3">
-                    <button type="button" class="btn btn-secondary">Edit Menu</button>
+                    <a href="EditMenu.php" type="button" class="btn btn-secondary">Edit Menu</a>
                 </div>
                 <div class="row mx-2 mx-4 mb-3">
-                    <button type="button" class="btn btn-secondary">Add Menu</button>
+                    <a href="AddMenu.php" type="button" class="btn btn-secondary">Add Menu</a>
                 </div>
                 <div class="row mx-2 mx-4 mb-3">
-                    <button type="button" class="btn btn-secondary">Book Keeping</button>
+                    <a href="BookKeeping.php" type="button" class="btn btn-secondary">Book Keeping</a>
                 </div>
             </div>
             <div class="col-9 bg-white">
