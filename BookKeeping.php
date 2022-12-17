@@ -37,7 +37,7 @@
                     <h3><strong>BOOK KEEPING</strong></h3>     
                 </div>
                 <table class="table text-center">
-                <h6><strong>Dari Tanggal : </strong></h6> 
+                <h6 style="d-flex"><strong>Dari Tanggal : </strong></h6> 
                 <select name="tgl">
                     <option value="tgl">dd/mm/yy</option>
                     <option value="1">01/12/2022</option>
